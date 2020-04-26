@@ -1,0 +1,13 @@
+{
+    "name": "PhilDiver/twelvedata-php",
+    "type": "library",
+    "description": "Twelve Data PHP Client",
+    "keywords": [
+        "client",
+        "api",
+        "twelvedata",
+        "twelve-data", 
+        "financial"],
+    "homepage": "https://github.com/PhilDiver/twelvedata-php",
+    "license": "MIT"
+}
